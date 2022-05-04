@@ -1,3 +1,3 @@
 # authenticationdjango
 APP_NAME=LIBRARY
-TEMPLATE AT SITE LEVEL AS THEY ARE BUILT IN AUTHENTICATION TEMPLATES-created with no change in names.
+
