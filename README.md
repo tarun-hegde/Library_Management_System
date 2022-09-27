@@ -1,5 +1,4 @@
-# authenticationdjango
-APP_NAME=LIBRARY  
+# Authenticationdjango
 ***INSTRUCTIONS TO START PROJECT FROM SCRATCH***  
 ```python
 django-admin startproject library
