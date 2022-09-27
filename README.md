@@ -11,4 +11,5 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
-[REFERENCES](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
+[REFERENCES](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)  
+Don't forget to register `catalog` in settings.py
